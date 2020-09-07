@@ -8,6 +8,7 @@ def my_hash
     japan: "Nissan",
     germany: "Audi",
     uk: "Aston Martin",
+    italy: "Ferrari",
     america: "Chevrolet"
   } 
 end
