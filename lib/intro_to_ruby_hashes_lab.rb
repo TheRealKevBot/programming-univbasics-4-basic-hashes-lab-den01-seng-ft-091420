@@ -5,9 +5,9 @@ end
 
 def my_hash 
   {
-    japan: "Nissan"
-    germany: "Audi"
-    uk: "Aston Martin"
+    japan: "Nissan",
+    germany: "Audi",
+    uk: "Aston Martin",
     america: "Chevrolet"
   } 
 end
