@@ -7,7 +7,9 @@ def my_hash
   {
     japan: "Nissan"
     germany: "Audi"
-    uk: "Austin "
+    uk: "Aston Martin"
+    america: "Chevrolet"
+  } 
 end
 
 def pioneer
