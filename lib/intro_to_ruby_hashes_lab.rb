@@ -3,8 +3,11 @@ def new_hash
   hash
 end
 
-def my_hash
-  
+def my_hash 
+  {
+    japan: "Nissan"
+    germany: "Audi"
+    uk: "Austin "
 end
 
 def pioneer
